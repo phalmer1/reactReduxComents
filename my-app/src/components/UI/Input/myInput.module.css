@@ -1,0 +1,12 @@
+.my__input{
+    height: 20px;
+    width: 350px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 20px 0;
+}
